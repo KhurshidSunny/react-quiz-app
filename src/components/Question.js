@@ -1,4 +1,4 @@
-import Options from "./components/Options";
+import Options from "./Options";
 
 function Question({ question, dispatch, answer, socre }) {
   return (

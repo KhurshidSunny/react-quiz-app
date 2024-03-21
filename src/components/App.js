@@ -5,11 +5,11 @@ import StartScreen from "./StartScreen";
 import Loader from "./Loader";
 import Error from "./Error";
 import Question from "./Question";
-import NextQuestion from "./components/NextQuestion";
-import Progress from "./components/Progress";
-import FinishedScreen from "./components/FinishedScreen";
-import Timer from "./components/Timer";
-import Footer from "./components/Footer";
+import NextQuestion from "./NextQuestion";
+import Progress from "./Progress";
+import FinishedScreen from "./FinishedScreen";
+import Timer from "./Timer";
+import Footer from "./Footer";
 
 const SECS_PER_QUESTION = 30;
 const initialState = {
